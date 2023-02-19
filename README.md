@@ -25,4 +25,4 @@ Ideas
 
 Broken
 - [x] reddit messages (only inbox available)
-- [x] Messenger Bullshit - WHO DA FUQ DECIDED THAT REMOVING READING PERSONAL MESSAGES IS A GOOD IDEA... WHO... Now no wonder that there is no alternatives for messenger apps, at least free... Thanks wanna be meta/facebook... No wonder why it was called the worst api... Ugh.
+- [x] Messenger Bullshit - WHO DA FUQ DECIDED THAT REMOVING READING PERSONAL MESSAGES IS A GOOD IDEA... WHO? To access that i need to have "business". Now no wonder that there is no optimised alternatives for messenger apps, at least for free... Thanks wanna be meta/facebook... No wonder why it was called the worst api... Ugh.
