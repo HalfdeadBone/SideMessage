@@ -13,8 +13,6 @@ I dont want to use Browser to open them i dont want to fight with it - all i wan
 
 ## ToDo
 - [ ] Message storage (signal like)
-- [ ] Messenger recive message
-- [ ] Messenger Send message
 - [ ] Twitter recive message
 - [ ] Twitter send message
 - [ ] Signal Recive Message
@@ -26,4 +24,5 @@ Ideas
 - [ ] grouping people (1 setting 1 person x acc)
 
 Broken
-- reddit messages (only inbox available)
+- [x] reddit messages (only inbox available)
+- [x] Messenger Bullshit - WHO DA FUQ DECIDED THAT REMOVING READING PERSONAL MESSAGES IS A GOOD IDEA... WHO... Now no wonder that there is no alternatives for messenger apps, at least free... Thanks wanna be meta/facebook... No wonder why it was called the worst api... Ugh.
