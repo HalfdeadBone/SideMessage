@@ -13,8 +13,6 @@ I dont want to use Browser to open them i dont want to fight with it - all i wan
 
 ## ToDo
 - [ ] Message storage (signal like)
-- [ ] Twitter recive message
-- [ ] Twitter send message
 - [ ] Signal Recive Message
 - [ ] Signal send message
 - [ ] Discord recive message
@@ -22,7 +20,10 @@ I dont want to use Browser to open them i dont want to fight with it - all i wan
 
 Ideas 
 - [ ] grouping people (1 setting 1 person x acc)
+- [ ] Mastodon?
 
 Broken
+- [x] Twitter recive message (behind paywall)
+- [x] Twitter send message(behind paywall)
 - [x] reddit messages (only inbox available)
 - [x] Messenger Bullshit - WHO DA FUQ DECIDED THAT REMOVING READING PERSONAL MESSAGES IS A GOOD IDEA... WHO? To access that i need to have "business". Now no wonder that there is no optimised alternatives for messenger apps, at least for free... Thanks wanna be meta/facebook... No wonder why it was called the worst api... Ugh.
