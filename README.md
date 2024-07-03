@@ -1,4 +1,4 @@
-# SideMessage
+# SideMessage (abandoned)
 Quick messenging app :D for now in python.
 
 
